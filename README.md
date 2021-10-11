@@ -1,3 +1,10 @@
+This is my first project for web dev 5610 in SV campus.
+I have 6 pages for the personal website.
+I also implemented a JS feature which is a button to show my pictures and clear my pictures.
+I use bootstrap 5 template for this project.
+
+
+
 # [Start Bootstrap - Simple Sidebar](https://startbootstrap.com/template/simple-sidebar/)
 
 [Simple Sidebar](https://startbootstrap.com/template/simple-sidebar/) is an off canvas sidebar navigation template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).

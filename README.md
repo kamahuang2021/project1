@@ -14,6 +14,8 @@
 [![npm version](https://img.shields.io/npm/v/startbootstrap-simple-sidebar.svg)](https://www.npmjs.com/package/startbootstrap-simple-sidebar)
 [![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-simple-sidebar/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-simple-sidebar)
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-simple-sidebar/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-simple-sidebar?type=dev)
+<!-- Xuejia: I really like how you arrange the README. It look so much better and more professional than mine. One thing you may need to check is the images above because
+ they are not showing properly. Probably hyperlinks are more suitable. -->
 
 ## Download and Installation
 
@@ -52,6 +54,9 @@ You must have npm installed in order to use this build environment.
 Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-simple-sidebar/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/simple-sidebar/).
 
 ## About
+
+<!-- Xuejia: It's better if you could add description about your project and tell us its awesome points. You should provide demo, your name, and class link as well
+so that we can get to learn more about your project. -->
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
